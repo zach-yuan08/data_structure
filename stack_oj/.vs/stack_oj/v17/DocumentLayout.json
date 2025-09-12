@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\code\\cppcode\\data_structure\\stack_oj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16DBA708-DDC1-44A9-A8E0-022F1E679738}|stack_oj\\stack_oj.vcxproj|F:\\code\\cppcode\\data_structure\\stack_oj\\stack_oj\\stack_oj.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16DBA708-DDC1-44A9-A8E0-022F1E679738}|stack_oj\\stack_oj.vcxproj|solutionrelative:stack_oj\\stack_oj.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stack_oj.c",
+              "DocumentMoniker": "F:\\code\\cppcode\\data_structure\\stack_oj\\stack_oj\\stack_oj.c",
+              "RelativeDocumentMoniker": "stack_oj\\stack_oj.c",
+              "ToolTip": "F:\\code\\cppcode\\data_structure\\stack_oj\\stack_oj\\stack_oj.c",
+              "RelativeToolTip": "stack_oj\\stack_oj.c",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAHwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-11T09:55:14.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
