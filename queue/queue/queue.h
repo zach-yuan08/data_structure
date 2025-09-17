@@ -4,7 +4,7 @@
 #include<assert.h>
 #include<stdbool.h>
 
-typedef int queue_data_type;
+typedef struct binary_tree_node* queue_data_type;
 typedef struct queue_node
 {
 	queue_data_type data;

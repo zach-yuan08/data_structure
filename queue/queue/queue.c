@@ -1,4 +1,3 @@
-
 #include"queue.h"
 
 void queue_init(queue* pq)
@@ -13,7 +12,7 @@ void queue_init(queue* pq)
 // 所以对头的前面也就是next是没有人的也就是null
 // 但是队列的结构不是这样，理解队列结构
 void queue_push(queue* pq, queue_data_type x)
-{
+{ // 这里x为啥不对，为啥传参过不来！！！
 	assert(pq);
 	queue_node* new_node = (queue_node*)malloc(sizeof(queue_node));
 	if (new_node == NULL)
